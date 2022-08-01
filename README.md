@@ -4,6 +4,7 @@ I'm a software engineer living in Astoria Queens, NY. I’m a naturally curious 
 
 ### Catch me other places
 
+- 🧑‍💻 [Dev.to Articles](https://dev.to/reggi)
 - 🥞 [StackOverflow](http://stackoverflow.reggi.com)
 - 😸 [Github](http://github.reggi.com)
 - 📘 [Facebook](http://facebook.reggi.com)
