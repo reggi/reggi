@@ -6,8 +6,5 @@ I'm a software engineer living in Astoria Queens, NY. I’m a naturally curious 
 
 - 🧑‍💻 [Dev.to Articles](https://dev.to/reggi)
 - 🥞 [StackOverflow](http://stackoverflow.reggi.com)
-- 😸 [Github](http://github.reggi.com)
 - 🐦 [Twitter](http://twitter.reggi.com)
 - 🔗 [LinkedIn](http://linkedin.reggi.com)
-- 📘 [Facebook](http://facebook.reggi.com) (Don't use much)
-- 🌇 [Instagram](http://instagram.reggi.com) (Don't use much)
