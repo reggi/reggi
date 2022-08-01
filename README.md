@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I've been programming from when I was very young customizing on myspace pages. I've been codign professionally for over 10 years, mostly JavaScript. I'm a self-taught software engineer. I studdied Graphic Design in college and in my spare time I learned programming. I love to hack on new projects, and reverse engineer existing ones. I passionate about learning and understanding more about my surroundings and myself. To me, programming is an art form, it’s a means of creative expression as well as communication. 
+I've been programming from when I was very young customizing [AOL Hometown](https://en.wikipedia.org/wiki/AOL_Hometown) and myspace pages. I've been coding professionally for over 10 years, mostly JavaScript. I'm a self-taught software engineer. I studdied Graphic Design in college and in my spare time I learned programming. I love to hack on new projects, and reverse engineer existing ones. I passionate about learning and understanding more about my surroundings and myself. To me, programming is an art form, it’s a means of creative expression as well as communication. 
 
 I'm a native New Yorker, I grew up in Brooklyn currently live in Astoria, Queens. In my spare time I practice Yoga. I enjoy a nice espresso and love finding hole-in-the-wall espresso shops. I like reading esoteric stories, studying mysticism and spirituality. At any moment I have a myriad of sewing projects in the works with a sewing machine I found on the street. I spend too much time at thrift stores.
 
