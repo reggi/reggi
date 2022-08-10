@@ -13,6 +13,7 @@ Currently creating code at [Twitter](https://twitter.com/) 🐦, Previously crea
 ### Catch me other places
 
 - 📹 [Twitch](http://twitch.com/thomasreggi)
+- 📺 [YouTube](https://youtube.com/thomasreggi)
 - 🧑‍💻 [Dev.to Articles](https://dev.to/reggi)
 - 🥞 [StackOverflow](http://stackoverflow.reggi.com)
 - 🐦 [Twitter](http://twitter.reggi.com)
