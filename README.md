@@ -8,7 +8,7 @@ I'd love to meetup and grab coffee ☕️ (or tea 🍵). I'm also open to video 
 
 I haven't been too active on Github since working at places that don't use the platform. My activity has dropped substantially and many of the repos I have are old and out of date.
 
-Currently creating code at [Twitter](https://twitter.com/) 🐦, Previously creating code at [MongoDB](https://www.mongodb.com/) 🍃, [Hello Alfred](https://www.helloalfred.com/) 🦇, [AB InBev](https://www.ab-inbev.com/)  / [ZX Ventures](https://zx-ventures.com/) 🍺[,](https://www.ab-inbev.com/) [American Express](https://www.americanexpress.com/) 💳, [InRhythm](https://www.inrhythm.com/) 🍊, and [Holstee](https://www.holstee.com/) 🃏
+Previously creating code at [Twitter](https://twitter.com/) 🐦, [MongoDB](https://www.mongodb.com/) 🍃, [Hello Alfred](https://www.helloalfred.com/) 🦇, [AB InBev](https://www.ab-inbev.com/)  / [ZX Ventures](https://zx-ventures.com/) 🍺[,](https://www.ab-inbev.com/) [American Express](https://www.americanexpress.com/) 💳, [InRhythm](https://www.inrhythm.com/) 🍊, and [Holstee](https://www.holstee.com/) 🃏
 
 ### Catch me other places
 
