@@ -12,6 +12,7 @@ Previously creating code at [Twitter](https://twitter.com/) 🐦, [MongoDB](http
 
 ### Catch me other places
 
+- 🐘 <a rel="me" href="https://indieweb.social/@thomasreggi">Mastodon</a>
 - 📹 [Twitch](http://twitch.com/thomasreggi)
 - 📺 [YouTube](https://youtube.com/thomasreggi)
 - 🧑‍💻 [Dev.to Articles](https://dev.to/reggi)
