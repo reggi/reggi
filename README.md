@@ -12,5 +12,5 @@ I'm a native New Yorker, I grew up in Brooklyn currently live in Astoria, Queens
 | [YouTube](https://youtube.com/thomasreggi) 📺       | [Hello Alfred](https://www.helloalfred.com/) 🦇         | [Astro](https://astro.build/) 🚀       |
 | [Dev.to Articles](https://dev.to/reggi) 🧑‍💻          | [ZX Ventures](https://zx-ventures.com/) 🍺              | [Prisma](https://www.prisma.io/) 🌈    |
 | [StackOverflow](http://stackoverflow.reggi.com) 🥞  | [American Express](https://www.americanexpress.com/) 💳 | [Zod](https://zod.dev/) 🔻             |
-| [Twitter](http://twitter.reggi.com) 🐦              | [InRhythm](https://www.inrhythm.com/) 🍊                | [Preact](https://preactjs.com/) 🚫⚛️    |
+| [Twitter](http://twitter.reggi.com) 🐦              | [InRhythm](https://www.inrhythm.com/) 🍊                | [HTMX](https://htmx.org) `</>`         |
 | [LinkedIn](http://linkedin.reggi.com) 🔗            | [Holstee](https://www.holstee.com/) 🃏                  | [Fresh](https://fresh.deno.dev/) 🍋    |
