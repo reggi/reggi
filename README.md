@@ -13,3 +13,5 @@ I grew up in Brooklyn and currently live in Queens. In my free time, I enjoy mak
 | [StackOverflow](http://stackoverflow.reggi.com) 🥞  | [American Express](https://www.americanexpress.com/) 💳 | [Astro](https://astro.build/) 🚀       |
 | [Twitter](http://twitter.reggi.com) 🐦              | [InRhythm](https://www.inrhythm.com/) 🍊                | [SolidJS](https://www.solidjs.com/) 🪨 |
 | [LinkedIn](http://linkedin.reggi.com) 🔗            | [Holstee](https://www.holstee.com/) 🃏                  | [Fresh](https://fresh.deno.dev/) 🍋    |
+
+<img src="https://reggi-track.deno.dev?url=https://github.com/reggi"/>
