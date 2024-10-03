@@ -1,4 +1,4 @@
-Hey I'm Thomas ✌️
+Hey I'm Tea ✌️
 
 I first learned HTML in high school and used my skills to create AOL Hometown websites and customize my MySpace page. I continued to teach myself programming in my spare time while studying Graphic Design at the College of Staten Island (CUNY). I have worked at several companies, including small startups and Fortune 500 companies, and I've been working as a professional coder for over 12 years.
 
