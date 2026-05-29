@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="800" height="326" viewBox="0 0 800 326">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a2e" />
+      <stop offset="100%" style="stop-color:#2d1b4e" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="326" rx="16" fill="url(#bg-gradient)" />
+
+  <!-- name -->
+  <text x="50" y="34"
+    text-anchor="start" fill="#ff6b9d"
+    font-family="monospace" font-size="22" font-weight="bold">
+    Tea Reggi
+  </text>
+  <text x="220" y="34"
+    text-anchor="start" fill="#c9a0dc"
+    font-family="monospace" font-size="13">
+    they/them &amp; she/her
+  </text>
+
+  <!-- facts -->
+  <text x="50" y="70"
+    text-anchor="start" fill="#e0c3fc"
+    font-family="monospace" font-size="16">
+    📦 Published my first npm package 14 years ago
+  </text>
+  <text x="50" y="108"
+    text-anchor="start" fill="#e0c3fc"
+    font-family="monospace" font-size="16">
+    ⚡ Been part of the <tspan fill="#F7DF1E" font-weight="bold">JS</tspan> community for 15 years
+  </text>
+  <text x="50" y="146"
+    text-anchor="start" fill="#e0c3fc"
+    font-family="monospace" font-size="16">
+    🔧 Started out learning <tspan fill="#F7DF1E" font-weight="bold">JS</tspan> through <tspan font-weight="bold">jQuery</tspan>
+  </text>
+  <text x="50" y="184"
+    text-anchor="start" fill="#e0c3fc"
+    font-family="monospace" font-size="16">
+    🏢 Previously at <tspan fill="#1DA1F2">Twitter</tspan>, <tspan fill="#3FA45B">MongoDB</tspan>, <tspan fill="#6CA0E8">American Express</tspan>, <tspan fill="#F4364C">Budweiser</tspan>
+  </text>
+  <text x="50" y="222"
+    text-anchor="start" fill="#e0c3fc"
+    font-family="monospace" font-size="16">
+    ✨ I'm passionate about self-hosting websites &amp; servers <a href="https://skywriter.dev"><tspan fill="#87CEEB" text-decoration="underline">skywriter.dev</tspan></a>
+  </text>
+  <text x="50" y="260"
+    text-anchor="start" fill="#e0c3fc"
+    font-family="monospace" font-size="16">
+    🗽 I grew up in Brooklyn New York and reside in Queens
+  </text>
+  <text x="50" y="298"
+    text-anchor="start" fill="#e0c3fc"
+    font-family="monospace" font-size="16">
+    🧘 In my spare time I do <tspan fill="#FF8C00" font-weight="bold">Hot Yoga</tspan>
+  </text>
+</svg>
